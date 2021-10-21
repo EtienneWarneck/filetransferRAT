@@ -1,10 +1,6 @@
 # filetransferRAT
 
-Transfering a password file and a screeshot file from victim's machine to the hacker's with Remote Access Tool.
-
-***File (password) transfer:***
-
-![](assets/downloadpassword.PNG)
+Transfer a file and a screeshot file located on the victim's machine to the hacker's machine with Remote Access Tool using PYTHON sockets, subprocesses and THE pyautogui.
 
 ***File (screenshot) transfer:***
 
